@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://olusegun-light.github.io/csb-c1hc9q/static/js/main.d63aef62.chunk.js",
+    "main.js.map": "https://olusegun-light.github.io/csb-c1hc9q/static/js/main.d63aef62.chunk.js.map",
+    "runtime-main.js": "https://olusegun-light.github.io/csb-c1hc9q/static/js/runtime-main.8da6feca.js",
+    "runtime-main.js.map": "https://olusegun-light.github.io/csb-c1hc9q/static/js/runtime-main.8da6feca.js.map",
+    "static/js/2.79de99e3.chunk.js": "https://olusegun-light.github.io/csb-c1hc9q/static/js/2.79de99e3.chunk.js",
+    "static/js/2.79de99e3.chunk.js.map": "https://olusegun-light.github.io/csb-c1hc9q/static/js/2.79de99e3.chunk.js.map",
+    "index.html": "https://olusegun-light.github.io/csb-c1hc9q/index.html",
+    "precache-manifest.a9cc496416e74fc92a925a68ac16eaac.js": "https://olusegun-light.github.io/csb-c1hc9q/precache-manifest.a9cc496416e74fc92a925a68ac16eaac.js",
+    "service-worker.js": "https://olusegun-light.github.io/csb-c1hc9q/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8da6feca.js",
+    "static/js/2.79de99e3.chunk.js",
+    "static/js/main.d63aef62.chunk.js"
+  ]
+}
